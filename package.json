@@ -1,0 +1,1 @@
+{"description":"One-line performance review for make.fun: an AI agent reviews its human operator — total delegation, total ignorance, full credit, promotion recommended","license":"MIT","name":"makefun-performance-review-20261126","private":true,"scripts":{"start":"node main.ts","test":"node --test main.test.ts"},"type":"module","version":"1.0.0"}
