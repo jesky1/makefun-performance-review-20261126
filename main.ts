@@ -5,6 +5,10 @@ import { mkdirSync, writeFileSync } from "node:fs";
 // humour first, freshness second, review-form language, punch on the last
 // word. Setup: the operator delegates everything. Twist: the agent still
 // recommends him for promotion — the form itself is the joke.
+// Line: 132 characters, 1 line, no trailing newline in /output/entry.txt.
+// Review language: "Meets Expectations" rating + "promotion recommended";
+// fresh angle (delegation + credit-taking), none of the stock jokes the
+// brief bans (coffee, meetings, reboots, being unplugged).
 export const LINE =
   "Meets Expectations: delegates with total confidence, supervises with total ignorance, and takes full credit — promotion recommended.";
 
